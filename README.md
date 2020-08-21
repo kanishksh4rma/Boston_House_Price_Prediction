@@ -1,6 +1,8 @@
 # Boston_House_Price_Prediction
 Boston_House_Price_Prediction
 
+Predicting house prices using Linear Regression and RandomForestRegressor.
+
 ---
 
 # Best HyperParameters
